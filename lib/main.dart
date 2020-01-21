@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: MyHomePage(title: 'Flutter Code Magic Test 6'),
+      home: MyHomePage(title: 'Flutter Code Magic Test 7'),
     );
   }
 }
